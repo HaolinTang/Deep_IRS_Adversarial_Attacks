@@ -16,6 +16,5 @@ If you in any way use this code for research that results in publications, pleas
   volume={10},
   number={},
   pages={100267-100275},
-  keywords={Data models;Computational modeling;Artificial intelligence;Security;Solid modeling;Receivers;Neural networks;Next generation networking;Adversarial machine learning;Security;next-generation networks;adversarial machine learning;model poisoning;intelligent reflecting surfaces},
   doi={10.1109/ACCESS.2022.3206012}}
 ```
